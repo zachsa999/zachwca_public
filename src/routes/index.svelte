@@ -25,7 +25,7 @@
 			class="card bg-white px-28 py-8 shadow-2xl rounded-3xl"
 			style={`transform: rotate3d(${mouse.x}, ${mouse.y}, 1, ${distanceFromCenter}deg);`}
 		>
-			<img src="../static/zWebLogo.png" alt="zWeb Logo" style="" class="w-full mb-8" />
+			<img src="zWebLogo.png" alt="zWeb Logo" style="" class="w-full mb-8" />
 			<div class="w-full px-5">
 				<p class="text-xl min-w-4/5	text-center">
 					Building software for efficiency, marketing, and automation, but mostly for people.
@@ -42,18 +42,6 @@
 				</div>
 			</div>
 			<p>x={mouse.x} y={mouse.y}</p>
-			<p>
-				Inner Width: {innerWidth}
-			</p>
-			<p>
-				Inner Height: {innerHeight}
-			</p>
-			<p>
-				Outer Width: {outerWidth}
-			</p>
-			<p>
-				Outer Height: {outerHeight}
-			</p>
 		</div>
 		<div />
 	</div>
