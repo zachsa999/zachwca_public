@@ -1,35 +1,38 @@
 <script>
+	import HomeHandler from '$lib/HomeHandler/HomeHandler.svelte';
+	// export let document;
+
+	let mouse = { x: 0, y: 0 };
 </script>
 
-<div class="font-ubuntu flex justify-center items-center w-full" id="layer">
-	<div
-		class="max-w-4xl content-wrapper flex justify-center items-center 
-        h-screen m-5"
-	>
-		<div
-			class="card bg-white px-28 py-8 shadow-2xl rounded-3xl border-slate-200 border-solid border"
-			id="card"
-		>
-			<img src="zWebLogo.png" alt="zWeb Logo" style="" class="w-full mb-8" />
-			<div class="w-full px-5">
-				<p class="text-xl min-w-4/5	text-center">
-					Building software for efficiency, marketing, and automation, but mostly for people.
-				</p>
-				<div class="p-5">
-					<div class="flex pl-20">
-						<p class="font-semibold">Phone:</p>
-						<p>&nbsp;<a href="tel:204-698-4613">1-204-698-4613</a></p>
-					</div>
-					<div class="flex pl-20">
-						<p class="font-semibold">Email:</p>
-						<p>&nbsp;<a href="mailto: zach@zachw.ca">zach@zachw.ca</a></p>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div />
+<!-- <pre>{JSON.stringify(document, null, 2)}</pre> -->
+
+<div class="background1">
+	<img src="whitegrit.png" class="background2" alt="texture" />
+	<div class="content">
+		<HomeHandler {mouse} />
 	</div>
 </div>
 
 <style>
+	.background1 {
+		overflow: hidden;
+		position: relative;
+		background: black;
+		/* background-color: #a55c1b; */
+		background-image: linear-gradient(315deg, #593a01 0%, #000000 90%);
+	}
+	.background2 {
+		background: black;
+		opacity: 0.4;
+		position: absolute;
+		left: 0;
+		top: 0;
+		width: 100%;
+		height: auto;
+		background-size: 10%;
+	}
+	.content {
+		position: relative;
+	}
 </style>

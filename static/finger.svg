@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32px"
+   height="32px"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="finger.svg"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="25.9375"
+     inkscape:cx="16"
+     inkscape:cy="16.019277"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="16"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="icon-27-one-finger-click" />
+  <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">icon 27 one finger click</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     sketch:type="MSPage">
+    <g
+       id="icon-27-one-finger-click"
+       sketch:type="MSArtboardGroup"
+       fill="#000000"
+       style="display:inline">
+      <path
+         d="m 19.623159,31 c 4.142832,0 7.501261,-3.585225 7.501261,-7.5 0,0 0,2.313244 0,0 V 19.749162 17.501676 C 27.12442,16.672323 26.458623,16 25.62442,16 c -0.828427,0 -1.5,0.671189 -1.5,1.501676 V 18 h -1 V 15.506439 C 23.12442,14.674456 22.458623,14 21.62442,14 c -0.828427,0 -1.5,0.671541 -1.5,1.506439 V 17 h -1 V 14.506439 C 19.12442,13.674456 18.458623,13 17.62442,13 c -0.828427,0 -1.5,0.671541 -1.5,1.506439 V 18 h -1 V 9.5052412 C 15.12442,8.6739194 14.458623,8 13.62442,8 c -0.828427,0 -1.5,0.6671298 -1.5,1.5052412 v 9.2947468 c -2.058399,-2.200421 -4.7683699,-4.620867 -5.878967,-3.504273 -1.0871697,1.093041 1.7143293,4.105007 5.626343,10.687379 1.76262,2.965794 3.992909,5.016448 7.751363,5.016906 z m 8.501261,-7.5 c 0,4.694421 -3.805579,8.5 -8.5,8.5 -3.112915,0 -6.398193,-1.452514 -8.659179,-5.571777 C 7.7017521,20.482516 3.5282732,16.583208 5.5155336,14.595947 6.9371827,13.174298 9.169262,14.538167 11.12442,16.366787 v 0 -6.8583784 C 11.12442,8.1154175 12.243709,7 13.62442,7 c 1.390338,0 2.5,1.1230528 2.5,2.5084086 V 12.498365 C 16.542251,12.185305 17.061617,12 17.62442,12 c 1.082518,0 1.994885,0.677467 2.345818,1.628124 C 20.411013,13.237989 20.990131,13 21.62442,13 c 1.390338,0 2.5,1.118226 2.5,2.497627 v 0.01346 c 0.417831,-0.312572 0.937197,-0.496897 1.5,-0.496897 1.390338,0 2.5,1.119344 2.5,2.500126 z"
+         id="one-finger-click"
+         sketch:type="MSShapeGroup"
+         sodipodi:nodetypes="ccscsssccsssccsssccssscsscssssscssscscsscsss" />
+    </g>
+  </g>
+  <metadata
+     id="metadata522">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>icon 27 one finger click</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
